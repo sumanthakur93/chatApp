@@ -69,85 +69,6 @@ password: Welcome@123
 
 The MERN-Chat-App is a cutting-edge solution designed to streamline real-time communication. It leverages the MERN stack (MongoDB, Express.js, React, and Node.js) to offer a robust, scalable chat application. Key features include real-time communication with features like other trending social media applications and seamless integration with cloud services like AWS S3, Google Cloud's AI.
 
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td>
-      <img src="screenshots/1_home.png" alt="Dark and Light Mode" width="400"/>
-    </td>
-    <td>
-      <img src="screenshots/2_login_signup.png" alt="Authentication" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Dark/Light Mode and Responsive Website</td>
-    <td align="center">Authentication</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/3_dashboard.png" alt="Responsive Dashboard" width="400"/>
-    </td>
-    <td>
-      <img src="screenshots/4_newchat.png" alt="New Chat" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Responsive Dashboard</td>
-    <td align="center">New Chat</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/5_searching.png" alt="Smooth Searching" width="400"/>
-    </td>
-    <td>
-      <img src="screenshots/6_chatting_area.png" alt="Chatting Area" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Smooth Searching</td>
-    <td align="center">Chatting Area & Real-time Communication</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/new_message.png" alt="New Message Notification" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">New Message Real-time Notification</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/8_delete_message.png" alt="Message Management" width="400"/>
-    </td>
-    <td>
-      <img src="screenshots/6_chatting_area.png" alt="Active Now Status" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Message Management</td>
-    <td align="center">Active Now Status</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/6_chatting_area.png" alt="Message Seen Status" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Message Seen Status</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/7_send_photo.png" alt="Image Messages" width="400"/>
-    </td>
-    <td>
-      <img src="screenshots/9_login_otp.png" alt="Login using OTP" width="400"/>
-    </td>
-  </tr>
-</table>
-
-
-
 ---
 
 ## 👾 Features
@@ -266,7 +187,7 @@ Install chat-app using one of the following methods:
 
 1. Clone the chat-app repository:
 	```
-	git clone https://github.com/suman12378/chat-app
+	git clone https://github.com/sumanthakur93/chat-app
 	```
 
 2. Navigate to the project directory:

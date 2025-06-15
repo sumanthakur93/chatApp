@@ -69,7 +69,7 @@ const Home = () => {
         textAlign="center"
       >
         &copy; 2025 Web Chat. All rights reserved.
-        <Link to="https://github.com/Suman12378" target="_blank">
+        <Link to="https://github.com/Sumanthakur93" target="_blank">
           <Text as="u" color="purple.500" ml={1}>
             Suman
           </Text>

@@ -54,7 +54,7 @@ const Navbar = (props) => {
             borderWidth={1}
             fontSize={"small"}
             backgroundColor={"transparent"}
-            href="https://github.com/Suman12378"
+            href="https://github.com/Sumanthakur93"
             mx={1}
           >
             <FaGithub />
@@ -99,7 +99,7 @@ const Navbar = (props) => {
               p={3}
               mr={2}
               onClick={() => {
-                window.open("https://github.com/suman12378");
+                window.open("https://github.com/sumanthakur93");
               }}
             >
               <FaGithub />
