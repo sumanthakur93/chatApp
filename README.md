@@ -3,13 +3,13 @@
   
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <div>
-    <h1>Conversa - MERN Chatting Application</h1>
-    <em>Connect, Code, Converse - Anywhere, Anytime with MERN Chat App!</em>
+    <h1>MERN Chatting Application</h1>
+    <em>Connect, Code Anywhere, Anytime with MERN Chat App!</em>
     <p>A full-stack MERN (MongoDB, Express.js, React.js, Node.js, Socket.IO) online chatting application 💬</p>
   </div>
 </div>
 	
-### Conversa is a chat-app with various features like:
+### chat-app with various features like:
 -   🔐 **Authentication**:  
     ✨ SignUp,
     🔑 Login
